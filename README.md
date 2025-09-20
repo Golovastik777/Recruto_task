@@ -14,8 +14,8 @@
 
 ### Примеры URL
 
-- Базовое использование: `https://your-username.github.io/testovoe_rekruto/`
-- С параметрами: `https://your-username.github.io/testovoe_rekruto/?name=Recruto&message=Давай дружить`
-- Кастомные параметры: `https://your-username.github.io/testovoe_rekruto/?name=Иван&message=Привет!`
+- Базовое использование: `https://your-username.github.io/Recruto_task/`
+- С параметрами: `https://your-username.github.io/Recruto_task/?name=Recruto&message=Давай дружить`
+- Кастомные параметры: `https://your-username.github.io/Recruto_task/?name=Иван&message=Привет!`
 
 
